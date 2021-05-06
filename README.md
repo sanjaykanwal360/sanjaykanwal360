@@ -2,7 +2,7 @@
   An Engineering student with the ability to follow instructions, and work cooperatively within team environments.
 - 👀 I’m interested in Data Science, Machine Learning, NLP, AI
 
-- 💞️ I’m looking to collaborate w9th Data Science and AI community.
+- 💞️ I’m looking to collaborate with Data Science and AI community.
 - 📫 How to reach me https://www.linkedin.com/in/sanjay-kanwal-075107158/
 
 <!---
